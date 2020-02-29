@@ -1,0 +1,26 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Taking Notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinNgo-Creator/Note-Taker.git"
+  },
+  "keywords": [
+    "Note",
+    "Taker"
+  ],
+  "author": "Kevin Ngo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinNgo-Creator/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/KevinNgo-Creator/Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
